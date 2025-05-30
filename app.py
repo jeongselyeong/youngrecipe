@@ -67,6 +67,7 @@ if user_input:
             })
             
             # 응답 표시
+            
             st.write(assistant_response)
 
 # 이전 대화 내역 표시 (시스템 프롬프트 제외)
